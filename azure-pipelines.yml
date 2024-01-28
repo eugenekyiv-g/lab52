@@ -18,4 +18,5 @@ steps:
   displayName: 'Run a multi-line script'
 
 - script: type file1
+  displayName: output GH file contents
 
