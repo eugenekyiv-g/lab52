@@ -17,6 +17,6 @@ steps:
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
 
-- script: type file1
+- script: cat file1
   displayName: output GH file contents
 
